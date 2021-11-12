@@ -6,9 +6,12 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: 'Portfolio Website: Web design and SEO'
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      I am based in Cape Town and I develop and design websites and I am also a
+      professional SEO. My goal is always to combine aesthetics with
+      performance. I have seen to many amazing looking sites simply not be good
+      enough to make any real search result progress, I develop SEO websites
+      that look good,
     actions:
       - label: Learn More
         url: /features
