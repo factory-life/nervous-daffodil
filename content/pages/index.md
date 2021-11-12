@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: /images/seo services cape town south africa.jpg
     image_alt: App preview
     title: 'Portfolio Website: Web design and SEO'
     content: >
