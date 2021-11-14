@@ -33,6 +33,7 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
+    image: /images/23.jpg
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
