@@ -42,10 +42,15 @@ sections:
       - title: Internet marketing and SEO consultant
         image: /images/123.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          I will work with your organisation or business no matter the size to
+          help you create the most powerful and robust SEO and digital strategy.
+          I can assist with my expertise in Branding and corporate identity and
+          advise on the best strategy for your business in the future. I am also
+          personally able to implement most of the work I provide consultancy
+          advise on. I will review aspects down to their very detail including
+          your website and its overall user-experience and other important
+          factors. 
         actions:
           - label: Learn More
             url: /features
