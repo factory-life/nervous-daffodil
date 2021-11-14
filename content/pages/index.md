@@ -144,7 +144,7 @@ sections:
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Business success in the future will be largely due to your online strength
     content: >-
       ## Lorem ipsum
 
