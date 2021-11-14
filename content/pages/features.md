@@ -16,7 +16,7 @@ sections:
         url: '#'
         style: secondary
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Our Web design and development technologies
     content: >
 
       IMG develops premium WordPress websites that satisfy a massive segment of
