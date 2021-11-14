@@ -6,7 +6,7 @@ sections:
     background: gray
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
-    title: The Best Features of Your Services
+    title: Web design agency Cape Town
     content: "Web design is a creative process that traditionally involved having to know knowledge of code such as HTML, CSS, and JavaScript. Over the years the industry has changed and the no-code movement has exploded with the introduction of a wide variety of different technologies that facilitate fast and scalable web design \n\n\_\n\nIMG Digital has the ability to custom code your website for you from scratch or we can make use of one of the technologies that facilitate faster and more scalable design. Our preferred CMS is WordPress but only because we are “old-timers” when it comes to using this particular technology and therefore have a deep understanding and this results in awesome websites that are designed to perform in search engine results and at the same time look incredible\n"
     actions:
       - label: Free Trial
