@@ -94,6 +94,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+    subtitle: 'We focus on the results '
   - section_id: reviews
     type: section_reviews
     background: white
