@@ -167,7 +167,6 @@ sections:
       We are happy to advise our client on any of the technologies we offer as
       service solutions. Every client has unique needs.
 
-
     image_alt: lorem-ipsum
     background: gray
     actions: []
