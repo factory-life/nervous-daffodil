@@ -53,7 +53,7 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
-    image: /images/23.jpg
+    image: /images/Acrylic 1.jpg
   - section_id: lorem-ipsum
     title: lorem-ipsum
     content: >-
