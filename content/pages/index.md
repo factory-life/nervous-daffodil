@@ -154,7 +154,7 @@ sections:
         url: /signup
         style: primary
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: IMG Digital
     content: >+
       IMG Digital is dynamic and robust offering a wide variety of SEO and
       digital marketing services. We do also know how to custom code and this
