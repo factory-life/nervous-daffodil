@@ -79,7 +79,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Cool Feature of Your Services
+      - title: We are a creative Web Design and SEO Digital agency.
         image: /images/POST 1 INSTA.PNG
         image_alt: App user profile preview
         content: >-
