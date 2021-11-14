@@ -95,17 +95,24 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          IMG Digital is a web development and search engine optimisation
+          company based in Cape Town, South Africa. Our business facilitates Web
+          development using the latest technologies, including CMS systems such
+          as WordPress and Webflow. We also offer cutting-edge serverless
+          Jamstack web application development for lightning-fast web
+          applications that are completely mobile responsive. IMG is focused on
+          building your company's web presence and increasing your online
+          credibility and visibility. In addition, we act as SEO and internet or
+          digital marketing consultants and assist businesses of any size with
+          our knowledge. IMG is an expert web development and SEO agency that
+          will assist you on all matters digital and work with your company to
+          achieve fantastic results and increase profits for your business. We
+          offer well-priced and quality SEO and Web design. We look forward to
+          working with dynamic individuals and businesses who desire to make the
+          world a better place.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         image_alt: lorem-ipsum
         actions: []
     subtitle: 'We focus on the results '
