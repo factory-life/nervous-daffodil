@@ -34,7 +34,6 @@ sections:
     type: section_features
     background: gray
     title: Digital Agency Cape Town
-    subtitle: "We offer\_SEO services\_and are\_web development\_and** design professionals**. We are based in\_Cape Town\_but serve the global market. We also facilitate Web development using the latest technologies such as Jamstack, Stackbit, Webflow and\_WordPress. We have the ability and proven track record to rank your business and build your online digital presence. We act as consultants and we are also able to implement, build and design. We are affordable and have built our business from the ground upwards. We look forward to working with dynamic individuals and businesses who desire to make the world a better place."
     features:
       - title: Internet marketing and SEO consultant
         image: /images/123.png
