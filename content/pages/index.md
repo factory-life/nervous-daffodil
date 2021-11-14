@@ -128,7 +128,9 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Let's connect
-    subtitle: This is an optional description for the call to action block.
+    subtitle: >-
+      We would love to talk further and look at growing your business in the
+      future
     actions:
       - label: Get Started
         url: /signup
