@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: /images/seo services cape town south africa.jpg
     image_alt: App preview
-    title: 'Portfolio Website: Web design and SEO'
+    title: Web Design and Development and SEO
     content: >
       I am based in Cape Town and I develop and design websites and I am also a
       professional SEO. My goal is always to combine aesthetics with
