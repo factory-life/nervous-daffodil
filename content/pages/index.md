@@ -94,7 +94,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: lorem-ipsum
+      - title: Web design agency Cape Town
         content: >+
           IMG Digital is a web development and search engine optimisation
           company based in Cape Town, South Africa. Our business facilitates Web
