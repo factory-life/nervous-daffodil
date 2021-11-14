@@ -79,7 +79,6 @@ sections:
         url: '#'
         style: secondary
   - section_id: lorem-ipsum
-    title: lorem-ipsum
     content: |
       *   ![](/images/1280px.jpg)
     image_alt: lorem-ipsum
