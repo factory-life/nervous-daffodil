@@ -17,17 +17,56 @@ sections:
         style: secondary
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+
+      IMG develops premium WordPress websites that satisfy a massive segment of
+      the local and international market. WordPress has received mixed reviews,
+      but it’s funny that they always seem to come out as the number one
+      platform in terms of SEO compatibility year after year. As you can see, we
+      are WordPress advocators. However, this does not mean that we don’t love
+      using other page builders and CMS systems. In fact, we are proficient in
+      all of the following development systems including custom code.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-      - Lorem ipsum
+      ### Jamstack Web applications
 
-      - dolor sit amet
+
+      ### Stackbit Web application
+
+
+      ### WordPress Websites### Webflow Websites### Shopify
+
+
+      As you can see, we don’t like to limit the level we take our learning
+      knowledge to. We agree that some may say excessive, but there is a
+      worldwide market, and everyone has different tastes and needs.
+
+
+      We design and develop websites that convey a clear message and drive home
+      a memorable user experience in the users’ minds.
+
+
+      Our website sare thoughtfully designed. This means that we will create
+      funnels and landing pages. We will design and write content if required
+      that has an exact purpose. Whether that purpose is to create awareness or
+      to convert, we can assist you. For example, many companies are looking to
+      increase their leads, and we can help you by implementing best practices
+      for lead generation.
+
+
+      ## Increase Your Websites Traffic
+
+
+      You need relevant and targeted traffic that can ideally comply with our
+      goals when creating your digital campaign or website. An increase in
+      traffic should be a worthy goal to work with, but only if your website’s
+      traffic is targeted and relevant. Many techniques can be used, such as
+      backlinking effectively to robust and relevant websites, and using
+      awesome, well-designed content to attract links is another good tactic
+      naturally. We have an entire list of strategies, so please do enquire
+      further for additional information
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
