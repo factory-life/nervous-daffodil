@@ -145,17 +145,8 @@ sections:
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
   - section_id: lorem-ipsum
     title: Business success in the future will be largely due to your online strength
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      ![](/images/IMGDIGITAL%203.jpg)
     image_alt: lorem-ipsum
     background: gray
     actions: []
