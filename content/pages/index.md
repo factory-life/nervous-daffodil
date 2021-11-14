@@ -32,7 +32,7 @@ sections:
         style: primary
   - section_id: features
     type: section_features
-    background: gray
+    background: white
     title: Digital Agency Cape Town
     features:
       - title: Internet marketing and SEO consultant
