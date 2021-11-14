@@ -39,7 +39,7 @@ sections:
       have an approachable and cool style and find that we get along
       exceptionally well with our clients.
     features:
-      - title: The Best Feature of Your Services
+      - title: Internet marketing and SEO consultant
         image: /images/123.png
         image_alt: App preview on a phone and tablet
         content: >-
