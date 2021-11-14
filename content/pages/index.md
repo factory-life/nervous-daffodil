@@ -155,17 +155,19 @@ sections:
         style: primary
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >+
+      IMG Digital is dynamic and robust offering a wide variety of SEO and
+      digital marketing services. We do also know how to custom code and this
+      helps us bring or offer you as our client's certain solutions that are
+      setting the industry on fire right now. Whilst we do use tools such as
+      WordPress and Webflow which facilitate no code we prefer to go more with a
+      low code approach. We see the power of code and new web apps are being
+      developed and to get the most out of any of the various software a good
+      level of coding can help facilitate better design and more functionality.
+      We are happy to advise our client on any of the technologies we offer as
+      service solutions. Every client has unique needs.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     image_alt: lorem-ipsum
     background: gray
     actions: []
