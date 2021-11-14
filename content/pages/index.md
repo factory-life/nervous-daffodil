@@ -6,12 +6,26 @@ sections:
     image: /images/seo services cape town south africa.jpg
     image_alt: App preview
     title: Web Design and Development and SEO
-    content: >
-      I am based in Cape Town and I develop and design websites and I am also a
-      professional SEO. My goal is always to combine aesthetics with
-      performance. I have seen to many amazing looking sites simply not be good
-      enough to make any real search result progress, I develop SEO websites
-      that look good,
+    content: >+
+      *   **SEO (on-page SEO, off-page SEO, Content SEO, Technical SEO**
+
+
+      *   **Web Development** and ***design*** for local and international
+      customers.
+
+
+      *   **Cape Town based agency** serving customers all around the world.
+
+
+      *   Websites and web applications built with technologies such as**
+      WordPress, Jamstack, Webflow**
+
+
+      *   Results driven and highly motivated.
+
+
+      *   **SEO content writing **specialists. We produce content that ranks
+
     actions:
       - label: Learn More
         url: /features
