@@ -35,8 +35,9 @@ sections:
     background: gray
     title: Digital Agency Cape Town
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      From Cape Town we service customers throughout and all over the world. We
+      have an approachable and cool style and find that we get along
+      exceptionally well with our clients.
     features:
       - title: The Best Feature of Your Services
         image: /images/123.png
