@@ -82,10 +82,15 @@ sections:
       - title: We are a creative Web Design and SEO Digital agency.
         image: /images/POST 1 INSTA.PNG
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          We work with amazing clients who share the same underlying
+          philosophies about life that we do. This is important with us as who
+          wants to work with people that are unkind or just nasty from the
+          start. We have seen this attitude and we dont like it. So we are
+          selective about our customers who we work with as we will go that
+          extra mile for you. This agency is founded on passion not on a greed
+          for money. Yes we need money to survive but passion keeps us alive in
+          our spirit and motivation to give our very best.
         actions:
           - label: Learn More
             url: /features
