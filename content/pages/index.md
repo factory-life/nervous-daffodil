@@ -36,7 +36,7 @@ sections:
     title: Digital Agency Cape Town
     features:
       - title: Internet marketing and SEO consultant
-        image: /images/123.png
+        image: /images/jamstack.svg
         image_alt: App preview on a phone and tablet
         content: >
           I will work with your organisation or business no matter the size to
