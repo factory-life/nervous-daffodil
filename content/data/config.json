@@ -2,7 +2,7 @@
     "title": "Azimuth",
     "path_prefix": "/",
     "base_font": "system-sans",
-    "palette": "orange",
+    "palette": "blue",
     "header": {
         "logo_img": "/images/IMGDIGITAL LOGO BLACK.PNG",
         "logo_img_alt": "Logo",
