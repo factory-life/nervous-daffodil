@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: /images/jamstack.svg
+    image: /images/123-cce8d321.png
     image_alt: App preview
     title: Web Design and Development and SEO
     content: >+
