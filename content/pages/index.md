@@ -6,7 +6,7 @@ sections:
     image: /images/123-cce8d321.png
     image_alt: App preview
     title: Web Design and Development and SEO
-    content: >+
+    content: >
       *   **SEO (on-page SEO, off-page SEO, Content SEO, Technical SEO**
 
 
@@ -14,18 +14,7 @@ sections:
       customers.
 
 
-      *   **Cape Town based agency** serving customers all around the world.
-
-
-      *   Websites and web applications built with technologies such as**
-      WordPress, Jamstack, Webflow**
-
-
-      *   Results driven and highly motivated.
-
-
-      *   **SEO content writing **specialists. We produce content that ranks
-
+      *
     actions:
       - label: Learn More
         url: /features
