@@ -6,15 +6,13 @@ sections:
     image: /images/123-cce8d321.png
     image_alt: App preview
     title: Web Design and Development and SEO
-    content: >
+    content: >+
       *   **SEO (on-page SEO, off-page SEO, Content SEO, Technical SEO**
 
 
       *   **Web Development** and ***design*** for local and international
       customers.
 
-
-      *
     actions:
       - label: Learn More
         url: /features
